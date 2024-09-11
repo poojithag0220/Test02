@@ -25,3 +25,4 @@ person [selection] = cp
 console.log(person.name); // to get the property information we use dot notation//
 
 
+console.log('hi');
